@@ -335,7 +335,7 @@ https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento",Azteca Uno (1080p)
 http://38.44.109.41:8003/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Azteca UNO -1 hora (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento",Azteca UNO -1 hora (720p)
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Entretenimiento",Azteca 7 (1080p)
