@@ -196,7 +196,7 @@ http://38.134.250.110:8000/play/a029/index.m3u8
 
 # ===== ENTRETENIMIENTO =====
 
-EXTINF:-1 tvg-id="AzClic.mx@SD" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento",Az Clic (1080p)
+#EXTINF:-1 tvg-id="AzClic.mx@SD" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento",Az Clic (1080p)
 http://38.252.238.18:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento",Az Corazon (720p)
